@@ -1,6 +1,6 @@
 # Speech_Recognition
 
 Install the following package
-> sudo pip3 insall SpeechRecognition
+> sudo pip3 install SpeechRecognition
 
 Run and have fun... :)

@@ -6,5 +6,5 @@ Install the following package
 Run and have fun... :)
 
 If error occurs in windows run the following command
->pip install pipwin
->pipwin install pyaudio
+ >pip install pipwin 
+ >pipwin install pyaudio

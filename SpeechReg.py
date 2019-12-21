@@ -9,4 +9,4 @@ with speech.Microphone() as source:
         result=rec.recorgnize_google(audio)
         print("You just said: {}".format(result))
     except:
-        print("Sorry! Unable to understand what you jsut said!")
+        print("Sorry! Unable to understand what you just said!")
